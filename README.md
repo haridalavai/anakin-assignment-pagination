@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Anakin assignment 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React app that fetches open issues from a public repository and lists them with pagination feature
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn`
+
+installs the required dependancies.
 
 ### `yarn start`
 
