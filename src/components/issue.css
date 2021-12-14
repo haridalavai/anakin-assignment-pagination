@@ -1,0 +1,28 @@
+.issue {
+  display: flex;
+  flex-direction: column;
+  /* margin: 5px; */
+  padding: 10px;
+  padding-left: 1rem;
+  justify-content: space-between;
+}
+
+.issue:hover {
+  background-color: rgb(243, 243, 243);
+}
+
+.issue__link {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  padding: 5px 0px 5px 0px;
+}
+
+.issue__link:hover {
+  color: cornflowerblue;
+}
+
+.issue_desc {
+  font-size: 0.8rem;
+  color: grey;
+}
